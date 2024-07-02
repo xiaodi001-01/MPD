@@ -1,0 +1,442 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "1.16.5-Forge_36.2.42",
+  "version": "1.0",
+  "author": "Infinitivexiaodi",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.42"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/curios-client.toml",
+      "hash": "a42264be7e4960427a41f6078bf277db50ba80fb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "ec081e100806fcc97b373ebf6fa3e7644b106a16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "a0af5bc6f21b0f92371616f7895ca768f90ae9fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/xibao.txt",
+      "hash": "320a0e4b7dce5b9ff4c9818feadd4df2391f2b74",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "c16e604ae52662778ad19a723f0b70267f7e1e9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "502e929d37c01159130bbd0db1af23611e59aba2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "7092c585b0bad0e35fe7b99d34557d1027ed3b76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "650af0cdd577246b235523400d11892322c86c44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "d113821a8539fae2f774223a4136d42e9b0d0930",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c000cc5ba4e947854ff21c15bf71e6c611823488",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "9b4be92db18c14e25afcc69a49f7ae06e987c2df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "21dd91c05c92d5bb9ebccf6280a0b1ffba743f4b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "8a9d760e17ef5a22db57516c876c3997dae1b5fe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-client.toml",
+      "hash": "bba7e751f0a137338ee021db6b83610f8baac198",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "6a58dceff60441bc5e2d0d4cf41f3565111b4419",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tac-client.toml",
+      "hash": "b44f7658395189b1e8fe4b1376a07ffb5fecda34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tac-common.toml",
+      "hash": "121cc51f933ab1d642e7442cf76fb73018115e81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/3A9CF9B49844E98D8FC95954D863A709",
+      "hash": "4156efa32d56d0e5698106b2ee3bca8cb7bb7b83",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/3C01E8C736856A8BB1384469DF060508",
+      "hash": "6c2155a86521ad9ac7d7b9617512f0a84cecfdde",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/3D41CCE94714E14112E14A92137D1679",
+      "hash": "2130dfb649989a2252070fbd8f8734c983bf4371",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/D023A070AF5C10DAE133BC188886F95A",
+      "hash": "87f7221153a175dfff440fedc0197a9308a120ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/DB330954607C33296799B3B079F2DEFD",
+      "hash": "32f37f4402796c8cbb4cb067dbf842f344c08767",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/E8F3A893AD697F1C51CBA165E99A8CAF",
+      "hash": "3abbf8b4ccaa1958409939b4e8796b965a421110",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/PASSWORD",
+      "hash": "0cac0ac09825eef2f830e97fd2dc0041a62609e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/alex/arm.json",
+      "hash": "70dc92f3ac955abef95ef21701e3d48cdc3e566b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/alex/gsl.png",
+      "hash": "7d613fafbe36a8c2c0dc4c53c1d4397a0d421982",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/alex/main.animation.json",
+      "hash": "80f7a0cc07f8a4c3cade41476dc775a09a35f635",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/alex/main.json",
+      "hash": "002e81660d842bfc3f3c21d45bfb4f097f9bb57b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/alex/tac.animation.json",
+      "hash": "6de5517fa54673acc20d77ff2bac807d6e2338e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/arm.animation.json",
+      "hash": "6022658d0fd9d6ebe37e4837f96d076c27695685",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/arm.json",
+      "hash": "9fae526cbce86cf199688d8fe855d7aef5cf6288",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/blue.png",
+      "hash": "e88d99aece7830bbaf0d329abc9ee230ac2952b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/default.png",
+      "hash": "ee140864ccbf43d9ef331816bf83a629b09d60ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/extra.animation.json",
+      "hash": "4bf693e7a9c03cb512735459ad48f7e9291e0e95",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/main.animation.json",
+      "hash": "dd8e6d8eceac15cb3073b704a84085219559e593",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/main.json",
+      "hash": "b29244e4058b65ae87d7c6e7b6516ecee16c1ef8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default/tac.animation.json",
+      "hash": "a215073ff2a8206ef10e54afe408ff17d3666532",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/arm.json",
+      "hash": "12197c2bd031ccbee69a984a9895a1c80ef6a462",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/blue.png",
+      "hash": "fa9a7556a232359a402e89687be27bf858ae40fe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/main.animation.json",
+      "hash": "103509e237db30b7f791be881440f4a0273a1070",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/main.json",
+      "hash": "4816116c6de8b8c70e38381708b3185b8da51f39",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/red.png",
+      "hash": "f72db6da120e89581b721b57c51fe49d0d252b57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/default_boy/tac.animation.json",
+      "hash": "f9cbf5dfe39ff9a94e48ef5f2bd0552189aee98c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/qingluka/arm.json",
+      "hash": "ca2e7b601719a600e07f008e3335a04dedae66ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/qingluka/main.json",
+      "hash": "51f4d1a0c090ccb0301303a9c1553b4ccff12ecc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/qingluka/texture.png",
+      "hash": "83603cce0522b7d0209fcad5266a157d08344891",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/steve/arm.json",
+      "hash": "b76af9de99b2329b4c2f47159cc27798efdbdebb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/steve/main.animation.json",
+      "hash": "80f7a0cc07f8a4c3cade41476dc775a09a35f635",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/steve/main.json",
+      "hash": "038234ea667e285393e015b976b4dd2add8fc13b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/steve/tac.animation.json",
+      "hash": "6de5517fa54673acc20d77ff2bac807d6e2338e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/steve/tartaric_acid.png",
+      "hash": "77369e8d3e4729fce2679226df5737f72c41dd8e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/wine_fox/arm.json",
+      "hash": "4b572396a4086e3ac01b47e41bd3d26525609b3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/wine_fox/main.animation.json",
+      "hash": "319fa71844e5f1c53eff20d2479acf73845754f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/wine_fox/main.json",
+      "hash": "7ec564c9f6047f6eac8f222866d3241e72fd0d73",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model/custom/wine_fox/skin.png",
+      "hash": "d5b8d7f592ea1f6d070952bf5f2daaab0e32cebb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/yes_steve_model-common.toml",
+      "hash": "69dfffe0a852615876df816606dd905b0a5486f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "230f2a2e9784e1983afd43b3122a88466e808182",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/curios-forge-1.16.5-4.1.0.0.jar",
+      "hash": "44cb4b783bf194b092e3986e40f9d78501f51ae2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/obfuscate-0.6.3-1.16.5.jar",
+      "hash": "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
+      "hash": "2f924825f8abf4067e9c9f157874778a0ba825a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/tac-release-0.3.13.2-1.16.5.jar",
+      "hash": "38188da7f299cba7fda358ff5a859eed22d1b9f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/yesstevemodel-1.16.5-release-1.1.5-hotfix-3.jar",
+      "hash": "6ee065b1577e2b057b3c2323f80985b07943023e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "3a5a3cd5a60dd59e0a17a52e1884f8c53741eef3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "xibao.png",
+      "hash": "d4fc861a8af6613223008bc7c34afb04961be46c",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 0,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
