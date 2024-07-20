@@ -1,0 +1,51 @@
+{
+  "name": "Wasteland Escape",
+  "author": "Infinitivexiaodi",
+  "version": "1.1",
+  "description": "",
+  "fileApi": "https://xiaodi001-01.github.io/MPD",
+  "files": [
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.12.jar",
+      "hash": "6da44b292908851cd8d3c522d5e00c320942830f"
+    },
+    {
+      "path": "mods/curios-forge-5.9.1+1.20.1.jar",
+      "hash": "d5698ca0e90adba53d0ca660a2dc0b79ac09504b"
+    },
+    {
+      "path": "mods/InventoryFree-1.20.1-3.2.1.jar",
+      "hash": "759e228b2b846b38eb56dfbf6f53478eec25df27"
+    },
+    {
+      "path": "mods/lradd-1.20.1-0.2.2.jar",
+      "hash": "3c46d126e0763dc14b84a0bad5e87c99b5779c2e"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.20.5.1039.jar",
+      "hash": "52c9dc2703f4363bc8698441827ec02293dad836"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-0.6.22.611.jar",
+      "hash": "f2f9639f50d04fa4f6ae7a2e972428f40a8f80d4"
+    },
+    {
+      "path": "mods/tacz-1.20.1-1.0.2-release.jar",
+      "hash": "6975836748588fa16d99bb75920d1921c06fb155"
+    },
+    {
+      "path": "mods/Wasteland 1.1.jar",
+      "hash": "eed485caf6676cbd6501e1c74d92559b3ed4b27e"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.3.5"
+    }
+  ]
+}
