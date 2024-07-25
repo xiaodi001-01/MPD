@@ -1,51 +1,55 @@
 {
-  "name": "Wasteland Escape",
-  "author": "Infinitivexiaodi",
+  "name": "1.16.5-Forge_36.2.42",
+  "author": "xiaodiyayaya",
   "version": "1.1",
   "description": "",
   "fileApi": "https://xiaodi001-01.github.io/MPD",
   "files": [
     {
-      "path": "mods/corpse-forge-1.20.1-1.0.12.jar",
-      "hash": "6da44b292908851cd8d3c522d5e00c320942830f"
+      "path": "mods/curios-forge-1.16.5-4.1.0.0.jar",
+      "hash": "44cb4b783bf194b092e3986e40f9d78501f51ae2"
     },
     {
-      "path": "mods/curios-forge-5.9.1+1.20.1.jar",
-      "hash": "d5698ca0e90adba53d0ca660a2dc0b79ac09504b"
+      "path": "mods/InventoryFree-1.16.5-3.0.1.jar",
+      "hash": "75370201bd2fe35ab11f120b0e2e9738a462f5dd"
     },
     {
-      "path": "mods/InventoryFree-1.20.1-3.2.1.jar",
-      "hash": "759e228b2b846b38eb56dfbf6f53478eec25df27"
+      "path": "mods/obfuscate-0.6.3-1.16.5.jar",
+      "hash": "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424"
     },
     {
-      "path": "mods/lradd-1.20.1-0.2.2.jar",
-      "hash": "3c46d126e0763dc14b84a0bad5e87c99b5779c2e"
+      "path": "mods/sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
+      "hash": "2f924825f8abf4067e9c9f157874778a0ba825a6"
     },
     {
-      "path": "mods/sophisticatedbackpacks-1.20.1-3.20.5.1039.jar",
-      "hash": "52c9dc2703f4363bc8698441827ec02293dad836"
+      "path": "mods/tac-release-0.3.14.2-1.16.5.jar",
+      "hash": "43ceff30bb07d007f6ea54800aee248ea4a745ba"
     },
     {
-      "path": "mods/sophisticatedcore-1.20.1-0.6.22.611.jar",
-      "hash": "f2f9639f50d04fa4f6ae7a2e972428f40a8f80d4"
+      "path": "mods/Wasteland 1.0.1.jar",
+      "hash": "220a345a5135f7ef61beddc11dab5623e2275712"
     },
     {
-      "path": "mods/tacz-1.20.1-1.0.2-release.jar",
-      "hash": "6975836748588fa16d99bb75920d1921c06fb155"
+      "path": "mods/yesstevemodel-forge-1.16.5-1.2.0-hotfix4.jar",
+      "hash": "ed19fb6b1ce3ff6e0c732e97c11cfa7661a46993"
     },
     {
-      "path": "mods/Wasteland 1.1.jar",
-      "hash": "eed485caf6676cbd6501e1c74d92559b3ed4b27e"
+      "path": "mods/[不是正版也能多人游戏模组]FixSocialInteractions-1.16.5-1.0.1.jar",
+      "hash": "6d37aba05acf159a5dc190f6d3ee2c91c5733d7f"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "3edc76d15887eb72faaf47f032702328206b233e"
     }
   ],
   "addons": [
     {
       "id": "game",
-      "version": "1.20.1"
+      "version": "1.16.5"
     },
     {
       "id": "forge",
-      "version": "47.3.5"
+      "version": "36.2.42"
     }
   ]
 }
